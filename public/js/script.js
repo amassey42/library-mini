@@ -21,7 +21,8 @@ bookForm.addEventListener("submit", e=>{
     e.preventDefault();
     const dataObj ={
         id:parseInt(bookId.value),
-        name:bookTitle.value,
+        book:bookTitle.value,
+        author:bookAuthor.value,
     }
     console.log(dataObj);
     fetch("/api/books",{

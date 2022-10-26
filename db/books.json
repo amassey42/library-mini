@@ -15,11 +15,8 @@
         "author": "Herman Melville"
     },
     {
-        "id": 8,
-        "name": "Long shadows"
-    },
-    {
-        "id": 10,
-        "name": "collen hoover"
+        "id": 16,
+        "book": "Long shadows",
+        "author": "collen hoover"
     }
 ]
